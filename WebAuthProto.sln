@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAuthProto", "WebAuthProto\WebAuthProto.csproj", "{4C212ACD-C999-4FD0-93B0-461778DA699F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C212ACD-C999-4FD0-93B0-461778DA699F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C212ACD-C999-4FD0-93B0-461778DA699F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C212ACD-C999-4FD0-93B0-461778DA699F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C212ACD-C999-4FD0-93B0-461778DA699F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EBE4447-D80F-4B06-BF97-1DA4476F7409}
+	EndGlobalSection
+EndGlobal
